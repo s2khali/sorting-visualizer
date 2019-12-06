@@ -1,0 +1,16 @@
+.array-container{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.array-bar {
+    width: 20px;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button-container {
+    width: 100%;
+}
